@@ -14,6 +14,53 @@ Hello World 🌎! I'm **Shoeb Iqbal**, a passionate cloud enthusiast☁️ and w
 
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
+<h2> <b>Current Status Quo</b> </h2>
+- 👨🏻‍💻 I’m currently working on GEN-AI
+- 🌱 I’m currently learning **GenAI** ,**DevOps** and **DSA**🔣.
+- 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
+- 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via wiqbal091@gmail.com .
+
+
+<br>
+<details>
+  <summary>
+  <b > My Tech Stack 🛠️👨‍💻💻</b>
+  </summary>
+  
+### **Cloud ☁**
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify,vercel,heroku&perline=50)](https://skillicons.dev)
+
+### **DevOps Tools♾**
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins,ansible,terraform,maven&perline=50)](https://skillicons.dev)
+
+### **Databases 🛢️📊🧾**
+[![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
+
+### **Machine Learning 🤖🧠🦾**
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=50)](https://skillicons.dev)
+
+### **Testing 🧪🔎✅**
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest,selenium,postman&perline=50)](https://skillicons.dev)
+
+### **Backend ⚙️🗄️🔙👨‍💻**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,nginx,kafka,rabbitmq,pug,yarn,npm&perline=50)](https://skillicons.dev)
+
+### **Frontend 📱🕸👨‍💻🌐**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,redux,styledcomponents,webpack,md&perline=50)](https://skillicons.dev)
+
+### **Programming Languages </>💻**
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,c,cpp&perline=50)](https://skillicons.dev)
+
+### **IDE's 🖥️📟#️⃣**
+[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,vim,eclipse,replit,codepen&perline=50)](https://skillicons.dev)
+
+### **Operating Systems 📂💻🏾**
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,kali,redhat&perline=50)](https://skillicons.dev)
+
+
+</details>
 
 
 
