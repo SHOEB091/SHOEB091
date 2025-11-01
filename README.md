@@ -17,9 +17,9 @@ Hello World 🌎! I'm **Shoeb Iqbal**, a passionate cloud enthusiast☁️ and w
 <h2> <b>Current Status Quo</b> </h2>
 
 - 👨🏻‍💻 I’m currently working on GEN-AI
-- 🌱 I’m currently learning **GenAI** ,**DevOps** and **DSA**🔣.
+- 🌱 I’m currently learning **AI/ML and DatScience** .
 - 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
-- 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
+- 💼 Holding a _Bachelor's Degree_ in _Computer Science Engineering_.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via wiqbal091@gmail.com .
 
